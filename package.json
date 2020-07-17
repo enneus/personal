@@ -43,7 +43,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "sass-loader": "6.0.6",
-    "simditor": "^2.3.6",
+    "simditor": "^2.3.22",
     "simple-module": "^3.0.3"
   }
 }
