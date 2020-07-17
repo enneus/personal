@@ -1,0 +1,39 @@
+.chart{
+	width:900px;
+	height: 785px;
+	background: #754fe6;
+	margin-left: 30px;
+	border-radius:5% ;
+	z-index: 1;
+	border-color: #1890ff;
+	border-style: solid;
+	display:inline-block;
+}
+
+.wrapper{
+	height: 100%;
+}
+
+.horibarchart{
+	height: 50%;
+	border-style: solid;
+	border-color: #1890ff;
+	border-radius: 10px;
+}
+
+.verbarchart{
+	height: 50%;
+	padding-top: 20px;
+}
+
+.horichartdecoration{
+	border-style: solid;
+	border-color: #1890ff;
+	padding-top:      10px;
+	padding-bottom:   10px;
+	padding-left:     10px;
+	padding-right:    10px;
+	border-radius: 10px;
+
+}
+

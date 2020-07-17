@@ -1,0 +1,54 @@
+.statisticswindow{
+	width:80%;
+	height: 100%;	
+}
+
+.iconwindow{
+	width: 30px;
+	height: 25px;
+	margin-left: 20px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.statistictitle{
+	width:150px;
+	height: 70px;
+	font-size:xx-large;
+	margin-left: 15px;
+	display: inline-block;
+}
+
+.showvalue{
+	height: auto;
+	border-style: solid;
+	border-color: #1890ff;
+	border-top: none;
+	border-left:   none;
+	border-right:  none;
+	text-align: center;
+	font-size: 30px;
+		&:hover{
+		opacity: 1;
+		transform: scale(1.1);
+		transition: all 0.4s;
+	}
+}
+
+.block{
+	margin-top: 40px;
+}
+
+.userblock .a{
+	color: red;
+}
+
+.text{
+	&:hover{
+		opacity: 1;
+		transform: scale(1.1);
+		transition: all 0.4s;
+	}
+
+}
+
